@@ -1,0 +1,12 @@
+C:\Users\irini\source\repos\apallaktikh_ergasia\apallaktikh_ergasia\bin\Debug\apallaktikh_ergasia.exe.config
+C:\Users\irini\source\repos\apallaktikh_ergasia\apallaktikh_ergasia\bin\Debug\apallaktikh_ergasia.exe
+C:\Users\irini\source\repos\apallaktikh_ergasia\apallaktikh_ergasia\bin\Debug\apallaktikh_ergasia.pdb
+C:\Users\irini\source\repos\apallaktikh_ergasia\apallaktikh_ergasia\obj\Debug\apallaktikh_ergasia.csprojAssemblyReference.cache
+C:\Users\irini\source\repos\apallaktikh_ergasia\apallaktikh_ergasia\obj\Debug\apallaktikh_ergasia.Form1.resources
+C:\Users\irini\source\repos\apallaktikh_ergasia\apallaktikh_ergasia\obj\Debug\apallaktikh_ergasia.Properties.Resources.resources
+C:\Users\irini\source\repos\apallaktikh_ergasia\apallaktikh_ergasia\obj\Debug\apallaktikh_ergasia.csproj.GenerateResource.cache
+C:\Users\irini\source\repos\apallaktikh_ergasia\apallaktikh_ergasia\obj\Debug\apallaktikh_ergasia.csproj.CoreCompileInputs.cache
+C:\Users\irini\source\repos\apallaktikh_ergasia\apallaktikh_ergasia\obj\Debug\apallaktikh_ergasia.exe
+C:\Users\irini\source\repos\apallaktikh_ergasia\apallaktikh_ergasia\obj\Debug\apallaktikh_ergasia.pdb
+C:\Users\irini\source\repos\apallaktikh_ergasia\apallaktikh_ergasia\obj\Debug\apallaktikh_ergasia.Form2.resources
+C:\Users\irini\source\repos\apallaktikh_ergasia\apallaktikh_ergasia\obj\Debug\apallaktikh_ergasia.Form3.resources
